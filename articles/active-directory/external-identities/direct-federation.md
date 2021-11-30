@@ -16,7 +16,7 @@ ms.custom: "it-pro"
 ms.collection: M365-identity-device-management
 ---
 
-# Federation with SAML/WS-Fed identity providers for guest users (preview)
+# Federation with SAML/WS-Fed identity providers for guest users
 
 > [!NOTE]
 >- *Direct federation* in Azure Active Directory is now referred to as *SAML/WS-Fed identity provider (IdP) federation*.
